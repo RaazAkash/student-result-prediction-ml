@@ -53,6 +53,11 @@ student-result-prediction-ml
 - student_result_prediction_using_RandomForestClassifier.ipynb
 - README.md
 
+## Model Accuracy and Visualization
+
+![Model Result](Screenshot (223).png)
+
+
 ## Author
 
 Akash
